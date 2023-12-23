@@ -105,38 +105,22 @@ Data Visualization, Tableau, Pipeline.
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>🤖 Colab</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>🎁 Project Name</b></td>
+      <td><b>🤖 Repo Link </b></td>
     </tr>
 	</thead>
   <tbody>
     <tr>
-      <td><a href="https:/a"><b>Project1</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>A</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>A</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>A</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>A</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>A</b></a></td>    
+      <td><a href="https:/a"><b>Amazon Bestseller Scraper</b></a></td>
+      <td><a href="https://github.com/eaintkyawthmu/Amazon-Bestseller-Scraper"><b>A</b></a></td>
     </tr>
    <tr>
-      <td><a href="https:/a"><b>Project2</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>B</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>B</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>B</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>B</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>B</b></a></td>    
+      <td><a href="https:/a"><b>Selenium Gmail Login Automation project</b></a></td>
+      <td><a href="https://github.com/eaintkyawthmu/selenium_gmail_login_script"><b>B</b></a></td>
     </tr>
        <tr>
       <td><a href="https:/a"><b>Project3</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>C</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>C</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>C</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>C</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/a"><b>C</b></a></td>    
+      <td><a href="https://github.com/eaintkyawthmu/"><b>C</b></a></td>
     </tr>
      
   </tbody>
