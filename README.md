@@ -111,12 +111,12 @@ Data Visualization, Tableau, Pipeline.
 	</thead>
   <tbody>
     <tr>
-      <td><a href="https:/a"><b>Amazon Bestseller Scraper</b></a></td>
-      <td><a href="https://github.com/eaintkyawthmu/Amazon-Bestseller-Scraper"><b>A</b></a></td>
+      <td><b>Amazon Bestseller Scraper</b></td>
+      <td><a href="https://github.com/eaintkyawthmu/Amazon-Bestseller-Scraper"><b>Go to Amazon Bestseller Scraper Repo</b></a></td>
     </tr>
    <tr>
-      <td><a href="https:/a"><b>Selenium Gmail Login Automation project</b></a></td>
-      <td><a href="https://github.com/eaintkyawthmu/selenium_gmail_login_script"><b>B</b></a></td>
+      <td><b>Selenium Gmail Login Automation project</b></td>
+      <td><a href="https://github.com/eaintkyawthmu/selenium_gmail_login_script"><b>Go to Selenium Gmail Login Automation project Repo </b></a></td>
     </tr>
        <tr>
       <td><a href="https:/a"><b>Project3</b></a></td>
